@@ -1,24 +1,31 @@
-# README
+# TODO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Gem grape : install and configuration
 
-Things you may want to cover:
+* Devise authentification (token/api) : install and configuration
 
-* Ruby version
+* Interactor configuration and installation
 
-* System dependencies
+* Configuration docker
 
-* Configuration
+* Create server on AWS (See the price for AWS ? possible to have free credits ?)
 
-* Database creation
+* Database creation (postgresql)
 
 * Database initialization
 
-* How to run the test suite
+* Generate test with Rspec (install faker, factories, json_matchers, shoulda, ...)
 
-* Services (job queues, cache servers, search engines, etc.)
+* Install and configure Sidekiq inside Docker
 
-* Deployment instructions
+* Install Rubocop (yes or not ?)
 
-* ...
+* Create 3 Models (User/ ? / ?)
+
+* Swagger configuration and installation
+
+* Install and configure first notificiation slack after Model User
+
+* Link aws-S3 to the API
+
+* Stripe or Mollie ?
