@@ -19,8 +19,14 @@ gem 'puma', '~> 3.11'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
+# Interactor
 gem 'interactor'
 gem 'interactor-rails'
+
+# API
+gem 'grape'
+gem 'grape-swagger'
+gem 'grape-swagger-rails'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
